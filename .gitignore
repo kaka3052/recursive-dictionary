@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+html_dump.txt
+test_*.py
+reproduce_bug.py
+levels.json
