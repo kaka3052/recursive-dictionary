@@ -1,0 +1,4 @@
+watchdog
+requests
+beautifulsoup4
+curl-cffi
